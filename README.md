@@ -1,7 +1,7 @@
 # 说明
 基于5iux二次开发，优化目录结构、部分资源本地化访问更快
 
-预览地址：https://sou.yuan-sir.com/old
+预览地址：https://sou.hiyuansir.com/old
 
 原作者地址https://github.com/5iux/5iux.github.io
 
